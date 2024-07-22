@@ -1,3 +1,3 @@
 #### Description
 
-Dev OPS Seminar
+David Dev OPS Seminar
